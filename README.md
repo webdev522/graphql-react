@@ -26,6 +26,9 @@ cd client && npm run build
 
 ## App Info
 
+### Link
+[https://blooming-cove-43657.herokuapp.com](blooming-cove-43657.herokuapp.com)
+
 ### Version
 
 1.0.0
